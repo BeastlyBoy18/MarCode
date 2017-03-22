@@ -11,7 +11,7 @@ int main() {
 			bcounter = bcounter + 1;
 		else if (input != 'b') {
 			cout << bcounter << endl;
-		
+
 		}
 		
 		
